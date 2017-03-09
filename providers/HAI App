@@ -1,0 +1,9 @@
+---
+- provider_name: application healthcare appraisers
+  provider_url: http://www.applications.healthcareappraisers.com/SpreadsheetWEB/
+  endpoints:
+  - schemes:
+    - http://www.applications.healthcareappraisers.com*/SpreadsheetWEB/*
+    url: http://www.applications.healthcareappraisers.com/SpreadsheetWEB/oembed
+    example_urls:    - http://www.23hq.com/23/oembed?url=http%3A%2F%2Fwww.23hq.com%2Fmprove%2Fphoto%2F13297717
+...
